@@ -1,5 +1,5 @@
 tasks:
   - init: pip3 install django
-    command: python3 /workspace/Django-Documentation-Tutorial-Follow-Along/Mysite/manage.py runserver
+    command: python3 /workspace/Django-Documentation-Tutorial-Follow-Along/mysite/manage.py runserver
 image:
   file: .gitpod.Dockerfile
